@@ -80,5 +80,5 @@ root     5678    1.0  12.5  mysqld
 
 ## Project URL
 
-GitHub: https://github.com/khushizz/Performance-Server-Stats
+https://roadmap.sh/projects/server-stats
 
